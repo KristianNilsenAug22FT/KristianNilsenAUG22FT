@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About me
+I'm a student studying Frontend development at Noroff.
+
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👯 I’m looking to collaborate projects that involve JS and WordPress
+- 📫 How to reach me: nilsenkr@pm.me
+
 <!--
 **KristianNilsenAug22FT/KristianNilsenAUG22FT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
