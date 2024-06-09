@@ -3,8 +3,8 @@
 ## About me
 I'm a student studying Frontend development at Noroff.
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 👯 I’m looking to collaborate projects that involve JS and WordPress
+- 🌱 I’m currently studying Frontend Development
+- 👯 I’m looking to collaborate on projects that involve JS and WordPress
 - 📫 How to reach me: nilsenkr@pm.me
 
 <!--
